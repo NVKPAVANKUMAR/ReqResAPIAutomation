@@ -1,0 +1,16 @@
+# Build Files #
+bin
+target
+build/
+.gradle
+logs
+test-output
+.idea
+test-report
+
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
